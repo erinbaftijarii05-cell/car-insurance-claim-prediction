@@ -1,2 +1,2 @@
-# car-insurance-claim-prediction
-Predicting car insurance claims with Python – CRISP-DM project
+git remote set-url origin https://github.com/erinbaftijarii05-cell/car-insurance-claim-prediction.git
+git pull origin main --allow-unrelated-histories
